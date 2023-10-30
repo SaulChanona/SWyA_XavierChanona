@@ -1,0 +1,31 @@
+.button-link {
+    text-decoration: none; /* Elimina el subrayado del enlace */
+}
+
+.custom-button {
+    display: inline-block;
+    background-color: rgb(184, 231, 14); 
+    color: rgb(179, 15, 15); 
+    padding: 10px 20px; 
+    border: none; 
+    border-radius: 5px; 
+    cursor: pointer; 
+    margin: 5px; 
+    font-size: 16px; 
+}
+
+.custom-button:hover {
+    background-color: #45a049; 
+}
+
+.letra {
+    display: inline-block;
+    background-color: rgb(184, 231, 14); 
+    color: rgb(179, 15, 15); 
+    padding: 10px 20px; 
+    border: none; 
+    border-radius: 5px; 
+    cursor: pointer; 
+    margin: 5px; 
+    font-size: 16px; 
+}
